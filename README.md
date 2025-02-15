@@ -1,4 +1,3 @@
-<title>My First GitHub Page</title>
 <div style="text-align:center;margin-top:40px;"><img src="Logo.02.jpg"></div>
 
 <div style="text-align:center;margin-top:40px;">
