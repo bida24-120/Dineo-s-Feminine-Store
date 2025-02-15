@@ -1,9 +1,3 @@
-<DOC!TYPE html>
-<html lang="en">
-<head>
-  <metacharsat="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
 <title>My First GitHub Page</title>
 <div style="text-align:center;margin-top:40px;"><img src="Logo.02.jpg"></div>
 
@@ -51,4 +45,3 @@
 <img style="width: 33%;" src="Bodycare.02.jpg">
 <img style="width: 33%;" src="Bodycare.03.jpg">
 
-</html>
