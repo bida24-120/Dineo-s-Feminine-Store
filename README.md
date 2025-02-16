@@ -32,9 +32,9 @@
 <h1 style="font-size:50px; text-align:center;">Category:Bags</h1>
 
 
-<img style="width: 33%;" src="Bag.01.jpg">
-<img style="width: 33%;" src="Bag.02.jpg">
-<img style="width: 33%;" src="Bag.03.jpg">
+<img style="width: 33%;" src="Bag.01.jpg"><p>Price:230$</p>
+<img style="width: 33%;" src="Bag.02.jpg"><p>Price:280$</p>
+<img style="width: 33%;" src="Bag.03.jpg"><p>Price:300$</p>
 
 
 <h1 style="font-size:50px; text-align:center;">Category:Bodycare</h1>
@@ -43,4 +43,5 @@
 <img style="width: 33%;" src="Bodycare.01.jpg">
 <img style="width: 33%;" src="Bodycare.02.jpg">
 <img style="width: 33%;" src="Bodycare.03.jpg">
+
 
