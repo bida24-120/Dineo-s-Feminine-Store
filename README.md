@@ -16,32 +16,32 @@
 <h1 style="font-size:50px; text-align:center;">Category:Jewellery</h1>
 
 
-<img style="width: 33%;" src="Jewellery.01.jpg"><p>Price:100$</p>
-<img style="width: 33%;" src="Jewellery.02.jpg"><p>Price:150$</p>
-<img style="width: 33%;" src="Jewellery.03.jpg"><p>Price:200$</p>
+<img style="width: 33%;" src="Jewellery.01.jpg">
+<img style="width: 33%;" src="Jewellery.02.jpg">
+<img style="width: 33%;" src="Jewellery.03.jpg">
 
 
 <h1 style="font-size:50px; text-align:center;">Category:Heels</h1>
 
 
-<img style="width: 33%;" src="Heel.01.jpg"><p>Price:99$</p>
-<img style="width: 33%;" src="Heel.02.jpg"><p>Price:110$</p>
-<img style="width: 33%;" src="Heel.03.jpg"><p>Price:130$</p>
+<img style="width: 33%;" src="Heel.01.jpg">
+<img style="width: 33%;" src="Heel.02.jpg">
+<img style="width: 33%;" src="Heel.03.jpg">
 
 
 <h1 style="font-size:50px; text-align:center;">Category:Bags</h1>
 
 
-<img style="width: 33%;" src="Bag.01.jpg"><p>Price:230$</p>
-<img style="width: 33%;" src="Bag.02.jpg"><p>Price:280$</p>
-<img style="width: 33%;" src="Bag.03.jpg"><p>Price:300$</p>
+<img style="width: 33%;" src="Bag.01.jpg">
+<img style="width: 33%;" src="Bag.02.jpg">
+<img style="width: 33%;" src="Bag.03.jpg">
 
 
 <h1 style="font-size:50px; text-align:center;">Category:Bodycare</h1>
 
 
-<img style="width: 33%;" src="Bodycare.01.jpg"><p>Price:105$</p>
-<img style="width: 33%;" src="Bodycare.02.jpg"><p>Price122$</p>
-<img style="width: 33%;" src="Bodycare.03.jpg"><p>Price:190$</p>
+<img style="width: 33%;" src="Bodycare.01.jpg">
+<img style="width: 33%;" src="Bodycare.02.jpg">
+<img style="width: 33%;" src="Bodycare.03.jpg">
 
 
