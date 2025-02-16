@@ -44,4 +44,8 @@
 <img style="width: 33%;" src="Bodycare.02.jpg">
 <img style="width: 33%;" src="Bodycare.03.jpg">
 
+<p>Contact details;267 334 334 / +267 75686901</p>
+<p>Email;dineom@homestore.co.bw</p>
+<p>Location;Airport Juction Mall</p>
+
 
