@@ -1,16 +1,3 @@
-head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pink Background</title>
-    <style>
-        body {
-            background-color: pink;
-            font-family: Arial, sans-serif;
-            text-align: center;
-            padding: 50px;
-        }
-    </style>
-</head>
 <div style="text-align:center;margin-top:40px;"><img src="Logo.02.jpg"></div>
 
 <div style="text-align:center;margin-top:40px;">
