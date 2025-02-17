@@ -1,6 +1,5 @@
 <div style="text-align:center;margin-top:40px;"><img src="Logo.02.jpg"></div>
 <Header>
-  <h1>Welcome to Dineo's Feminine Store</h1>
   <nav>
 <div style="text-align:center;margin-top:40px;">
 <a href="Home.html">Home</a>
@@ -21,7 +20,6 @@
 
 
 <img style="width: 33%;" src="Jewellery.01.jpg">
-<p>Prices:120$</p>
 <img style="width: 33%;" src="Jewellery.02.jpg">
 <img style="width: 33%;" src="Jewellery.03.jpg">
 
