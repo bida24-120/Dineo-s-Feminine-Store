@@ -2,8 +2,8 @@
 
 <div style="text-align:center;margin-top:40px;">
 <a href="#">Home</a>
-<a href="#">Prices</a>
-<a href="#">About</a>
+<a href="#">About us</a>
+<a href="#">Contact</a>
 </div>
 <h1 style="font-size:50px; text-align:center;">Nurture Your Body,Adorn Your Style</h1>
 
@@ -44,8 +44,6 @@
 <img style="width: 33%;" src="Bodycare.02.jpg">
 <img style="width: 33%;" src="Bodycare.03.jpg">
 
-<h4>Contact details; +267 334 334 / +267 75686901</h4>
-<h4>Email; dineom@homestore.co.bw</h4>
-<h4>Location; Airport Juction Mall</h4>
+
 
 
