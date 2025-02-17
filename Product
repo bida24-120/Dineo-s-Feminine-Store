@@ -1,0 +1,64 @@
+<body>
+
+<header>
+
+<h1>About Me</h1>
+
+<nav>
+
+<a href="index.html">Home</a> |
+
+<a href="about.html">About</a> |
+
+<a href="about.html">Product</a> |
+
+<a href="contact.html">Contact</a>
+
+</nav>
+
+</header>
+
+
+<main>
+<h1 style="font-size:50px; text-align:center;">Category:Jewelry</h1>
+
+
+<img style="width: 33%;" src="Jewellery.01.jpg">
+<img style="width: 33%;" src="Jewellery.02.jpg">
+<img style="width: 33%;" src="Jewellery.03.jpg">
+
+
+<h1 style="font-size:50px; text-align:center;">Category:Heels</h1>
+
+
+<img style="width: 33%;" src="Heel.01.jpg">
+<img style="width: 33%;" src="Heel.02.jpg">
+<img style="width: 33%;" src="Heel.03.jpg">
+
+
+<h1 style="font-size:50px; text-align:center;">Category:Bags</h1>
+
+
+<img style="width: 33%;" src="Bag.01.jpg">
+<img style="width: 33%;" src="Bag.02.jpg">
+<img style="width: 33%;" src="Bag.03.jpg">
+
+
+<h1 style="font-size:50px; text-align:center;">Category:Bodycare</h1>
+
+
+<img style="width: 33%;" src="Bodycare.01.jpg">
+<img style="width: 33%;" src="Bodycare.02.jpg">
+<img style="width: 33%;" src="Bodycare.03.jpg">
+</main>
+
+<footer>
+
+<p>&copy; 2023 Dineo Dikgang</p>
+
+</footer>
+
+</body>
+
+</html>
+
