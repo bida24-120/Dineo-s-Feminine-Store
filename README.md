@@ -17,6 +17,7 @@
 
 
 <img style="width: 33%;" src="Jewellery.01.jpg">
+<p>Prices:120$</p>
 <img style="width: 33%;" src="Jewellery.02.jpg">
 <img style="width: 33%;" src="Jewellery.03.jpg">
 
