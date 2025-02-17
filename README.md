@@ -1,10 +1,14 @@
 <div style="text-align:center;margin-top:40px;"><img src="Logo.02.jpg"></div>
-
+<Header>
+  <h1>Welcome to Dineo's Feminine Store</h1>
+  <nav>
 <div style="text-align:center;margin-top:40px;">
-<a href="#">Home</a>
-<a href="#">About us</a>
-<a href="#">Contact</a>
+<a href="Home.html">Home</a>
+<a href="about.html">About us</a>
+<a href="contact.html">Contact</a>
 </div>
+    <nav>
+    </header>
 <h1 style="font-size:50px; text-align:center;">Nurture Your Body,Adorn Your Style</h1>
 
 <p style="font-size:20px; text-align:center; line-height: 30px;margin-bottom:50px;">We believe that beauty is a blend of self care and self-expression.<br>Our brand is dedicated to empowering women by offering a curated selection of body<br>care essentials aesthetic clothing,bags and elegant jewelery that celebrate feminity in all its forms.</p>
