@@ -13,7 +13,7 @@
 
 <hr style="width: 60%;">
 
-<h1 style="font-size:50px; text-align:center;">Category:Jewellery</h1>
+<h1 style="font-size:50px; text-align:center;">Category:Jewelry</h1>
 
 
 <img style="width: 33%;" src="Jewellery.01.jpg">
