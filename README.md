@@ -5,6 +5,7 @@
 <a href="Home.html">Home</a>
 <a href="about.html">About us</a>
 <a href="contact.html">Contact</a>
+  <a href="homepage.html">Products</a>
 </div>
     <nav>
     </header>
